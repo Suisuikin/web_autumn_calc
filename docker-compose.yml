@@ -1,9 +1,0 @@
-version: '3.8'
-services:
-  async-chrono:
-    build: .
-    ports:
-      - "9001:8000"
-    environment:
-      - MAIN_SERVICE_TOKEN=111517
-    restart: unless-stopped
