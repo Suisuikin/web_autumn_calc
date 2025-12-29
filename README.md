@@ -3,7 +3,7 @@
 
 В данном репозиторие представлен Асинхронный сервис для сервиса ChronoArchives.
 
-Актуальная ветка - main
+Актуальная ветка - async-service
 
 Навигация по проекту:
 * Фронтенд - github.com/Suisuikin/web_autumn_front
